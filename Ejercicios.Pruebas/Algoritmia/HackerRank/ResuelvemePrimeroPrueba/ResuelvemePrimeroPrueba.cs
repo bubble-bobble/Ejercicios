@@ -2,11 +2,11 @@
 
 namespace Ejercicios.Pruebas.Algoritmia.HackerRank.ResuelvemePrimeroPrueba
 {
-    public class ResuelvemePrimeroTest
+    public class ResuelvemePrimeroPrueba
     {
         private readonly ResuelvemePrimero resuelvemePrimero;
 
-        public ResuelvemePrimeroTest()
+        public ResuelvemePrimeroPrueba()
         {
             resuelvemePrimero = new ResuelvemePrimero();
         }
