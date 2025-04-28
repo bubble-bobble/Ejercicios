@@ -14,3 +14,4 @@ pruebas unitarias con **NUnit 3**.
 #### HackerRank
 1) [Resuélveme primero](Ejercicios/Algoritmia/HackerRank/ResuelvemePrimero/ResuelvemePrimero.md)
 2) [Simple suma arreglo](Ejercicios/Algoritmia/HackerRank/SimpleSumaArreglo/SimpleSumaArreglo.md)
+3) [Comparar tripletas](Ejercicios/Algoritmia/HackerRank/CompararTripletas/CompararTripletas.md)
