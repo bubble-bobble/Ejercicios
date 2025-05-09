@@ -16,3 +16,4 @@ pruebas unitarias con **NUnit 3**.
 2) [Simple suma arreglo](Ejercicios/Algoritmia/HackerRank/SimpleSumaArreglo/SimpleSumaArreglo.md)
 3) [Comparar tripletas](Ejercicios/Algoritmia/HackerRank/CompararTripletas/CompararTripletas.md)
 4) [Gran suma](Ejercicios/Algoritmia/HackerRank/GranSuma/GranSuma.md)
+5) [Diferencia diagonal](Ejercicios/Algoritmia/HackerRank/DiferenciaDiagonal/DiferenciaDiagonal.md)
